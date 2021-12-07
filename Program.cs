@@ -1,7 +1,0 @@
-namespace DemoGit
-{
-    class Program
-    {
-        
-    }
-}
